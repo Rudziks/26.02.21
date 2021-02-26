@@ -56,9 +56,7 @@ const zmienna = tablica.filter(item =>{
         return item
     }
 })
-//find - znajdowanie pierwszego elem wyst na tablicy
 
-console.log(tablica,zmienna)
 
 
 
